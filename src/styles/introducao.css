@@ -1,0 +1,51 @@
+.introducao {
+  align-items: center;
+  padding: 11.25rem 1.25rem;
+}
+
+.introducao h1 {
+  font-size: 4.5rem;
+  line-height: 1.125;
+  margin-bottom: 2.5rem;
+  position: relative; /*para o detalhe ficar certo depois*/
+}
+
+.introducao p {
+  font-size: 1.5rem;
+  color: #525252;
+}
+
+@media (max-width: 1000px) { /*usar valores inteiros, nada muito quebrado*/
+  .introducao h1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .introducao {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;    
+  }
+
+  .introducao h1 {
+    font-size: 2rem;
+  }
+
+  .introducao p {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .introducao {
+    grid-template-columns: 1fr;
+  }
+
+  .introducao img {
+    display: none;
+  }
+
+  .introducao p {
+    font-size: 1.125rem;
+  }
+}
