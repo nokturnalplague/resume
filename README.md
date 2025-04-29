@@ -19,4 +19,6 @@ Você pode acessar o portfólio online através deste link:
 
 ## ✍️ Autora
 
-**Nathália Dagort**
+Nathália Dagort Ferlin
+
+Créditos ao curso da Origamid
