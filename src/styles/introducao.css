@@ -41,10 +41,6 @@
     grid-template-columns: 1fr;
   }
 
-  .introducao img {
-    display: none;
-  }
-
   .introducao p {
     font-size: 1.125rem;
   }
