@@ -15,7 +15,7 @@ Este portfólio é uma vitrine do meu trabalho como desenvolvedora e entusiasta 
 ## 💻 Como Visualizar
 
 Você pode acessar o portfólio online através deste link:  
-👉 [https://nokturnalplague-resume.netlify.app](https://nokturnalplague-resume.netlify.app)  
+👉 http://nokturnalplague.github.io/resumme
 
 ## ✍️ Autora
 
